@@ -38,9 +38,14 @@ form input {
     width: 40%;
     background-color:rgb(103 169 61) ;
     color: black;
+    border-radius: 5px;
     font-weight: bold;
     border: 0;
     outline: 0;
+}
+
+.btn:hover{
+    box-shadow: 2px 2px 2px 1px  rgb(7, 52, 21);
 }
 
 .message {
